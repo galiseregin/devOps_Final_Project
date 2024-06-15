@@ -8,7 +8,7 @@
 <form action="result.jsp" method="post">
     <label for="userInput">Enter something for input:</label>
     <input type="text" id="userInput" name="userInput" required>
-    <button type="submit">Submit</button>
+    <button type="submit" id="submitButton">Submit</button>
 </form>
 <br>
 <a href="https://md.hit.ac.il/course/view.php?id=21972">Go to the HIT Website to the Devops course in Moodle</a>
