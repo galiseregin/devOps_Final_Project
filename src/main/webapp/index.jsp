@@ -11,6 +11,6 @@
     <button type="submit" id="submitButton">Submit</button>
 </form>
 <br>
-<a href="https://md.hit.ac.il/course/view.php?id=21972">Go to the HIT Website to the Devops course in Moodle</a>
+<a href="https://md.hit.ac.il/course/view.php?id=21972">Go to the HIT Website to the Devops course in Moodle!</a>
 </body>
 </html>
