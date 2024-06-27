@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Simple Web Application</title>
+    </head>
+    <body>
+        <h1>Welcome to Simple Web Application</h1>
+
+        <form action="processInput.jsp" method="post">
+            <label for="textInput">Enter your name:</label>
+            <input type="text" id="textInput" name="name"/>
+            <button type="submit">Submit</button>
+        </form>
+
+        <a href="anotherPage.jsp">Another Page</a>
+    </body>
+</html>
